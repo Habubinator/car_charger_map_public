@@ -1,0 +1,36 @@
+{
+    "name": "car_charger_map",
+    "version": "1.0.0",
+    "description": "Server that parses and uses info about electrocars chargers",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "build": "node config/esbuild.js",
+        "dev": "nodemon index.js",
+        "prod": "npm run build && node build/index.js"
+    },
+    "keywords": [
+        "car",
+        "electrocharger",
+        "express",
+        "node",
+        "nodejs",
+        "mysql"
+    ],
+    "author": "Hudymenko Yevhenii (tg:Munakuso)",
+    "license": "ISC",
+    "devDependencies": {
+        "esbuild": "^0.19.11",
+        "glob": "^10.3.10",
+        "nodemon": "^3.0.2"
+    },
+    "dependencies": {
+        "axios": "^1.6.5",
+        "dotenv": "^16.3.1",
+        "express": "^4.18.2",
+        "express-rate-limit": "^7.1.5",
+        "geojson-places": "^1.0.8",
+        "mysql2": "^3.7.1",
+        "ws": "^8.16.0"
+    }
+}

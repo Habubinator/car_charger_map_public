@@ -1,0 +1,1626 @@
+[
+    {
+        "locationId": 695309,
+        "latitude": 49.77944,
+        "longitude": 23.632266,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 47,
+        "latitude": 49.917908,
+        "longitude": 23.566532,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 48,
+        "latitude": 46.444124,
+        "longitude": 30.766454,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 49,
+        "latitude": 46.436979,
+        "longitude": 30.745036,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 52,
+        "latitude": 46.477708,
+        "longitude": 30.738258,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 54,
+        "latitude": 50.438504,
+        "longitude": 30.387919,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 55,
+        "latitude": 49.865161,
+        "longitude": 24.03243,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 72,
+        "latitude": 48.464528,
+        "longitude": 32.295773,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 76,
+        "latitude": 48.277525,
+        "longitude": 25.943705,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 77,
+        "latitude": 48.449699,
+        "longitude": 35.023987,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 81,
+        "latitude": 49.80992,
+        "longitude": 23.973757,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 82,
+        "latitude": 48.428615,
+        "longitude": 35.03856,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 89,
+        "latitude": 48.359007,
+        "longitude": 24.421856,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 90,
+        "latitude": 48.31742,
+        "longitude": 14.289091,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 95,
+        "latitude": 50.451624,
+        "longitude": 30.509483,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 109,
+        "latitude": 50.400838,
+        "longitude": 30.612384,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 113,
+        "latitude": 49.851674,
+        "longitude": 24.051915,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 114,
+        "latitude": 46.406139,
+        "longitude": 30.718246,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 116,
+        "latitude": 49.414098,
+        "longitude": 32.043167,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 119,
+        "latitude": 49.842164,
+        "longitude": 24.029154,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 141,
+        "latitude": 49.357187,
+        "longitude": 23.512687,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 148,
+        "latitude": 46.943362,
+        "longitude": 31.93901,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 156,
+        "latitude": 47.903807,
+        "longitude": 33.392529,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 528915,
+        "latitude": 53.330341,
+        "longitude": -2.645976,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 8471,
+        "latitude": 50.379685,
+        "longitude": 30.844428,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 8475,
+        "latitude": 49.804522,
+        "longitude": 24.075605,
+        "powerType": 2,
+        "status": "OCCUPIED",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 8485,
+        "latitude": 49.79658,
+        "longitude": 7.956204,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 8488,
+        "latitude": 47.264957,
+        "longitude": 11.426945,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 8494,
+        "latitude": 46.693259,
+        "longitude": 9.525409,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 8501,
+        "latitude": 46.568133,
+        "longitude": 11.561037,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 8544,
+        "latitude": 50.725662,
+        "longitude": 24.150919,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 8546,
+        "latitude": 49.574762,
+        "longitude": 25.637945,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 8549,
+        "latitude": 49.82245,
+        "longitude": 23.98571,
+        "powerType": 2,
+        "status": "OCCUPIED",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 11811,
+        "latitude": 49.811484,
+        "longitude": 23.983401,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 13178,
+        "latitude": 50.618818,
+        "longitude": 26.248561,
+        "powerType": 2,
+        "status": "OCCUPIED",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 576158,
+        "latitude": 49.774201,
+        "longitude": 24.008862,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 579657,
+        "latitude": 51.899196,
+        "longitude": -8.464779,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 579658,
+        "latitude": 50.420206,
+        "longitude": 30.401525,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 583197,
+        "latitude": 49.829702,
+        "longitude": 24.004059,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 323757,
+        "latitude": 37.973104,
+        "longitude": 23.751439,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 323758,
+        "latitude": 37.828158,
+        "longitude": 23.771413,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 323753,
+        "latitude": 50.425362,
+        "longitude": 30.52264,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 332239,
+        "latitude": 37.967468,
+        "longitude": 23.725983,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 332238,
+        "latitude": 49.808547,
+        "longitude": 23.976287,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 332240,
+        "latitude": 37.82826,
+        "longitude": 23.770895,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "DUMMY"
+    },
+    {
+        "locationId": 336454,
+        "latitude": 49.066216,
+        "longitude": 33.439133,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 336697,
+        "latitude": 49.853789,
+        "longitude": 24.026201,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 338291,
+        "latitude": 49.836007,
+        "longitude": 24.055788,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 341576,
+        "latitude": 39.703269,
+        "longitude": 21.632905,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 616717,
+        "latitude": 53.415159,
+        "longitude": -6.239719,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 616716,
+        "latitude": 48.951317,
+        "longitude": 24.682669,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 620388,
+        "latitude": 48.908097,
+        "longitude": 24.695923,
+        "powerType": 2,
+        "status": "OCCUPIED",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 620434,
+        "latitude": 48.908161,
+        "longitude": 24.684953,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 624068,
+        "latitude": 49.551406,
+        "longitude": 25.603289,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370382,
+        "latitude": 48.277734,
+        "longitude": 25.946638,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370377,
+        "latitude": 49.806643,
+        "longitude": 23.977562,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370378,
+        "latitude": 48.210806,
+        "longitude": 22.656722,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370387,
+        "latitude": 38.759063,
+        "longitude": -9.373188,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370393,
+        "latitude": 48.920373,
+        "longitude": 24.710714,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370392,
+        "latitude": 48.914124,
+        "longitude": 24.711435,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370401,
+        "latitude": 48.635384,
+        "longitude": 24.569944,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370413,
+        "latitude": 49.77294,
+        "longitude": 24.011081,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370415,
+        "latitude": 49.432661,
+        "longitude": 26.994131,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370409,
+        "latitude": 48.754104,
+        "longitude": 21.912297,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370408,
+        "latitude": 48.755459,
+        "longitude": 21.91572,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370411,
+        "latitude": 49.802595,
+        "longitude": 23.999974,
+        "powerType": 2,
+        "status": "OCCUPIED",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370410,
+        "latitude": 49.794575,
+        "longitude": 24.054362,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370420,
+        "latitude": 48.710766,
+        "longitude": 16.368086,
+        "powerType": 4,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370417,
+        "latitude": 48.633025,
+        "longitude": 22.279936,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370416,
+        "latitude": 49.869936,
+        "longitude": 24.022735,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370419,
+        "latitude": 50.746424,
+        "longitude": 25.427199,
+        "powerType": 3,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 370418,
+        "latitude": 48.012797,
+        "longitude": 16.457849,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 656205,
+        "latitude": 47.87667,
+        "longitude": 35.127283,
+        "powerType": 3,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 656383,
+        "latitude": 50.532405,
+        "longitude": 30.486495,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 656384,
+        "latitude": 50.584327,
+        "longitude": 30.535688,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 660297,
+        "latitude": 49.792133,
+        "longitude": 23.713997,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 660318,
+        "latitude": 53.419092,
+        "longitude": -6.378822,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 660317,
+        "latitude": 48.362605,
+        "longitude": 25.739041,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 660329,
+        "latitude": 52.210489,
+        "longitude": -0.285415,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 660326,
+        "latitude": 49.836923,
+        "longitude": 23.977848,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 660324,
+        "latitude": 52.504001,
+        "longitude": -1.706306,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 660325,
+        "latitude": 49.799639,
+        "longitude": 24.017014,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 660339,
+        "latitude": 49.816743,
+        "longitude": 24.114218,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 660364,
+        "latitude": 49.812509,
+        "longitude": 24.113837,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 660365,
+        "latitude": 49.815562,
+        "longitude": 24.113847,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 660385,
+        "latitude": 48.891333,
+        "longitude": 24.653344,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 663149,
+        "latitude": 51.201276,
+        "longitude": 24.675068,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 666789,
+        "latitude": 52.677099,
+        "longitude": -2.042615,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 666810,
+        "latitude": 52.678276,
+        "longitude": -2.002358,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 666808,
+        "latitude": 52.676882,
+        "longitude": -2.042874,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 666809,
+        "latitude": 52.67758,
+        "longitude": -2.041351,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 666851,
+        "latitude": 48.355527,
+        "longitude": 24.425952,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 666899,
+        "latitude": 49.784649,
+        "longitude": 23.95521,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 666985,
+        "latitude": 49.862445,
+        "longitude": 24.030624,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670622,
+        "latitude": 48.359934,
+        "longitude": 24.408027,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670613,
+        "latitude": 49.897324,
+        "longitude": 23.95643,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670664,
+        "latitude": 49.771216,
+        "longitude": 24.012227,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670662,
+        "latitude": 43.588445,
+        "longitude": 11.105845,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670680,
+        "latitude": 49.766513,
+        "longitude": 24.083261,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670679,
+        "latitude": 48.363972,
+        "longitude": 24.418291,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670677,
+        "latitude": 48.02252,
+        "longitude": 33.464774,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670719,
+        "latitude": 48.909722,
+        "longitude": 24.687435,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670710,
+        "latitude": 49.842624,
+        "longitude": 24.00948,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670711,
+        "latitude": 52.663305,
+        "longitude": -8.630284,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670725,
+        "latitude": 49.843087,
+        "longitude": 24.008885,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670751,
+        "latitude": 50.436931,
+        "longitude": 30.345516,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670765,
+        "latitude": 48.431375,
+        "longitude": 22.69056,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 670774,
+        "latitude": 49.934645,
+        "longitude": 23.560228,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 674710,
+        "latitude": 49.840994,
+        "longitude": 24.068077,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 674787,
+        "latitude": 49.310596,
+        "longitude": 28.481742,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 674788,
+        "latitude": 48.675222,
+        "longitude": 33.10579,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 674910,
+        "latitude": 38.722979,
+        "longitude": -9.162963,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 674920,
+        "latitude": 49.79713,
+        "longitude": 24.882079,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 674921,
+        "latitude": 50.508425,
+        "longitude": 30.455257,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 674919,
+        "latitude": 48.642496,
+        "longitude": 22.310464,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 674940,
+        "latitude": 49.542945,
+        "longitude": 25.552248,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678123,
+        "latitude": 48.619969,
+        "longitude": 22.281758,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678125,
+        "latitude": 50.35566,
+        "longitude": 30.434448,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678160,
+        "latitude": 50.612406,
+        "longitude": 26.24801,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678202,
+        "latitude": 49.440337,
+        "longitude": 32.056678,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678205,
+        "latitude": 48.357848,
+        "longitude": 24.412528,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678218,
+        "latitude": 49.798812,
+        "longitude": 22.952839,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678219,
+        "latitude": 54.717692,
+        "longitude": 25.285704,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678216,
+        "latitude": 50.956543,
+        "longitude": 25.570298,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678210,
+        "latitude": 50.593633,
+        "longitude": 26.257464,
+        "powerType": 5,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678211,
+        "latitude": 49.806648,
+        "longitude": 23.977101,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678209,
+        "latitude": 48.603956,
+        "longitude": 22.269585,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678212,
+        "latitude": 49.22901,
+        "longitude": 28.42608,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678408,
+        "latitude": 49.873348,
+        "longitude": 24.088185,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678403,
+        "latitude": 48.182278,
+        "longitude": 23.262389,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678400,
+        "latitude": 48.180083,
+        "longitude": 23.275278,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 678405,
+        "latitude": 49.802652,
+        "longitude": 25.380385,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 682178,
+        "latitude": 49.954787,
+        "longitude": 34.623382,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 683670,
+        "latitude": 49.204577,
+        "longitude": 28.421697,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 424493,
+        "latitude": 50.375255,
+        "longitude": 30.881442,
+        "powerType": 5,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 428891,
+        "latitude": 49.821511,
+        "longitude": 23.988997,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 430156,
+        "latitude": 49.842785,
+        "longitude": 24.016478,
+        "powerType": 3,
+        "status": "OCCUPIED",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 430367,
+        "latitude": 49.879813,
+        "longitude": 23.891277,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 430586,
+        "latitude": 50.468634,
+        "longitude": 30.463012,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 430620,
+        "latitude": 49.862221,
+        "longitude": 24.017005,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 695273,
+        "latitude": 50.485854,
+        "longitude": 30.518765,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 695310,
+        "latitude": 49.920809,
+        "longitude": 23.717688,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 695303,
+        "latitude": 49.517563,
+        "longitude": 23.2117,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 695316,
+        "latitude": 49.53949,
+        "longitude": 25.578869,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 695334,
+        "latitude": 50.627839,
+        "longitude": 26.249212,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 695452,
+        "latitude": 47.083583,
+        "longitude": 28.182722,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 695445,
+        "latitude": 49.44031,
+        "longitude": 26.999651,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 695465,
+        "latitude": 47.037111,
+        "longitude": 28.75825,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 695470,
+        "latitude": 47.039861,
+        "longitude": 28.802917,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 695484,
+        "latitude": 48.941949,
+        "longitude": 24.738142,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 695472,
+        "latitude": 50.44836,
+        "longitude": 30.604333,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 439600,
+        "latitude": 49.221519,
+        "longitude": 23.809147,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 463493,
+        "latitude": 50.405002,
+        "longitude": 30.612196,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 472641,
+        "latitude": 50.448841,
+        "longitude": 30.182399,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 217041,
+        "latitude": 49.528161,
+        "longitude": 25.605388,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 747211,
+        "latitude": 49.823886,
+        "longitude": 24.138306,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 747210,
+        "latitude": 49.691003,
+        "longitude": 24.221923,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 747209,
+        "latitude": 49.440049,
+        "longitude": 26.970087,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 747208,
+        "latitude": 49.219083,
+        "longitude": 28.446918,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 747203,
+        "latitude": 50.238767,
+        "longitude": 28.738414,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 747207,
+        "latitude": 49.2178,
+        "longitude": 28.443476,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 747206,
+        "latitude": 48.62121,
+        "longitude": 22.286336,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751295,
+        "latitude": 48.734594,
+        "longitude": 30.174116,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751307,
+        "latitude": 49.246562,
+        "longitude": 28.536219,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751305,
+        "latitude": 46.491856,
+        "longitude": 30.658283,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751311,
+        "latitude": 48.42995,
+        "longitude": 24.589335,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751310,
+        "latitude": 49.219224,
+        "longitude": 28.4492,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751299,
+        "latitude": 50.272172,
+        "longitude": 28.676212,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751297,
+        "latitude": 49.218579,
+        "longitude": 28.451383,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751296,
+        "latitude": 49.216178,
+        "longitude": 28.445025,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751300,
+        "latitude": 49.827844,
+        "longitude": 23.951314,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751323,
+        "latitude": 49.028863,
+        "longitude": 33.421907,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751322,
+        "latitude": 48.655398,
+        "longitude": 33.121553,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751321,
+        "latitude": 49.78806,
+        "longitude": 23.944193,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751320,
+        "latitude": 50.525499,
+        "longitude": 30.791715,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751327,
+        "latitude": 49.230066,
+        "longitude": 23.336967,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751325,
+        "latitude": 51.208724,
+        "longitude": 24.700821,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751324,
+        "latitude": 48.72428,
+        "longitude": 30.24509,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751315,
+        "latitude": 47.986362,
+        "longitude": 32.109525,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751314,
+        "latitude": 50.128394,
+        "longitude": 24.348546,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751313,
+        "latitude": 49.855457,
+        "longitude": 24.045553,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751316,
+        "latitude": 48.293814,
+        "longitude": 25.937766,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751339,
+        "latitude": 48.627455,
+        "longitude": 22.289469,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751338,
+        "latitude": 48.275723,
+        "longitude": 25.986754,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751337,
+        "latitude": 49.902055,
+        "longitude": 23.939442,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751341,
+        "latitude": 48.55042,
+        "longitude": 23.491306,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751331,
+        "latitude": 49.839205,
+        "longitude": 24.061319,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751330,
+        "latitude": 48.853904,
+        "longitude": 2.28884,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751328,
+        "latitude": 49.017809,
+        "longitude": 26.330437,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751335,
+        "latitude": 49.814113,
+        "longitude": 24.061118,
+        "powerType": 4,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751332,
+        "latitude": 49.823251,
+        "longitude": 23.913931,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751355,
+        "latitude": 49.278068,
+        "longitude": 23.50206,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751354,
+        "latitude": 49.249624,
+        "longitude": 28.540675,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751353,
+        "latitude": 49.221987,
+        "longitude": 28.424004,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751352,
+        "latitude": 49.836873,
+        "longitude": 24.028849,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751356,
+        "latitude": 49.25662,
+        "longitude": 28.574647,
+        "powerType": 3,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751346,
+        "latitude": 48.656982,
+        "longitude": 32.482023,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751345,
+        "latitude": 48.516,
+        "longitude": 32.26485,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751350,
+        "latitude": 48.119711,
+        "longitude": 23.772029,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751349,
+        "latitude": 54.379442,
+        "longitude": 18.605023,
+        "powerType": 2,
+        "status": "ON_REPAIR",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751363,
+        "latitude": 49.81106,
+        "longitude": 24.04087,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 751367,
+        "latitude": 50.447572,
+        "longitude": 30.227526,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    },
+    {
+        "locationId": 518198,
+        "latitude": 49.810909,
+        "longitude": 24.139321,
+        "powerType": 2,
+        "status": "AVAILABLE",
+        "locationPinType": "SMART"
+    }
+]

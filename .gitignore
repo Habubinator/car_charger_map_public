@@ -125,3 +125,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+node_modules
+tz_materials
+.env
+build
+logs
+.VSCodeCounter
+src/database/schema materials/startup.sql
